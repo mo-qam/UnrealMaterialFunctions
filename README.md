@@ -8,8 +8,8 @@ This repository showcases a collection of custom material functions I've created
 
 ## Material Functions Gallery 🖼️
 
-### Function 1: [Your Function Name]
-![Function 1](images/function1.png)
+### Function 1: [EmsisiveFlicker]
+![EmsisiveFlicker 1](images/mohammedqamar_materialfunction_emissiveflicker_A.png)
 
 **Description:**  
 Your description for Function 1 here.
