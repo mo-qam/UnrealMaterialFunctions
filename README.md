@@ -34,6 +34,14 @@ EmissiveFlicker adds dynamic lighting variations to your emissive materials. Thi
 
 ---
 
+### Function 3: Tiling & Offset
+![Tiling & Offset Function](images/mohammedqamar_materialfunction_tiling&offset_A.png)
+
+**Description:**  
+The Tiling & Offset function allows for precise control over the repetition and positioning of textures within your material.The offset parameters enable you to shift the texture coordinates, providing an additional layer of customization. This function brings together both tiling and offset controls into a single, user-friendly interface, enhancing workflow efficiency and creative flexibility.
+
+---
+
 ## How To Use 👨‍💻
 
 To use any of these material functions in your own project, simply download the `.uasset` files located in the `MaterialFunctions` folder and place them into the `Content` directory of your Unreal Engine project.
