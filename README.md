@@ -34,7 +34,7 @@ EmissiveFlicker adds dynamic lighting variations to your emissive materials. Thi
 
 ---
 
-### Function 3: Tiling & Offset
+### Function 4: Tiling & Offset
 ![Tiling & Offset Function](images/mohammedqamar_materialfunction_tiling&offset_A.png)
 
 **Description:**  
