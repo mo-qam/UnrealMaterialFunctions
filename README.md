@@ -8,11 +8,37 @@ This repository showcases a collection of custom material functions I've created
 
 ## Material Functions Gallery 🖼️
 
-### Function 1: [EmsisiveFlicker]
-![EmsisiveFlicker 1](images/mohammedqamar_materialfunction_emissiveflicker_A.png)
+### Function 1: Weathering
+![Weathering Showcase](images/mohammedqamar_materialfunction_weathering_A.png)
+![Weathering Function](images/mohammedqamar_materialfunction_weathering_B.png)
 
 **Description:**  
-Your description for Function 1 here.
+The Weathering material function simulates natural wear and tear effects on surfaces. It can be easily adjusted for varying degrees of erosion, fading, and detail decay. Perfect for creating more lifelike environments, props, or even characters.
+
+---
+
+### Function 2: NormalMultiplier
+![Normal Multiplier Function](images/mohammedqamar_materialfunction_normalMultiplier_A.png)
+![Normal Multiplier Use Case](images/mohammedqamar_materialfunction_normalMultiplier_B.png)
+
+**Description:**  
+NormalMultiplier enhances the impact of normal maps on your materials. This function allows you to amplify or dampen the normal intensity, providing extra control over how light interacts with your surfaces. Ideal for adding extra depth or subtlety to your textures.
+
+---
+
+### Function 3: EmissiveFlicker
+![Emissive Flicker Function](images/mohammedqamar_materialfunction_emissiveflicker_A.png)
+
+**Description:**  
+EmissiveFlicker adds dynamic lighting variations to your emissive materials. This function generates a flickering effect that can be adjusted for speed, intensity, and randomness. It's excellent for simulating unstable lights, glowing objects, or animated screen displays.
+
+---
+
+### Function 4: Tiling & Offset
+![Tiling & Offset Function](images/mohammedqamar_materialfunction_tiling&offset_A.png)
+
+**Description:**  
+The Tiling & Offset function allows for precise control over the repetition and positioning of textures within your material.The offset parameters enable you to shift the texture coordinates, providing an additional layer of customization. This function brings together both tiling and offset controls into a single, user-friendly interface, enhancing workflow efficiency and creative flexibility.
 
 ---
 
@@ -28,7 +54,7 @@ Feel free to connect with me:
 
 - GitHub: [@moqam](https://github.com/moqam)
 - Email: qamar@moqam.ca
-- Portfolio: moqam.ca
+- Portfolio: [moqam.ca](https://moqam.ca)
 
 ---
 
