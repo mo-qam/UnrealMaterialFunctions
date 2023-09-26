@@ -46,9 +46,10 @@ The Tiling & Offset function allows for precise control over the repetition and 
 ![TextureStrength Function](images/mohammedqamar_materialfunction_TextureStrength_A.png)
 
 **Description:**  
-
+The Texture Strength function provides enhanced control over the prominence of a texture's details. By adjusting the strength parameter, users can either amplify or diminish the visibility of texture features, allowing for dynamic blending between various levels of texture detail. Ideal for scenarios where you need to gradually reveal or conceal texture patterns, such as fading tattoos, environmental storytelling, or interactive surfaces that respond to player actions.
 
 ---
+
 ### Function 6: Emissive Pulse
 ![Pulse Function](images/mohammedqamar_materialfunction_emissivePulse_A.png)
 
@@ -56,6 +57,7 @@ The Tiling & Offset function allows for precise control over the repetition and 
 Emissive Pulse creates a rhythmic glowing effect for emissive materials. This function pulses the emissive strength in a predictable manner, making it great for simulating heartbeat-like glows, rhythmic light sources, or any other patterned light emission. The pulse frequency, intensity, and falloff can be easily adjusted to fit different artistic needs.
 
 ---
+
 ### Function 7: Pulse
 ![Pulse Function](images/mohammedqamar_materialfunction_emissivePulse_A.png)
 
