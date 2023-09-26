@@ -43,6 +43,7 @@ The Tiling & Offset function allows for precise control over the repetition and 
 ---
 
 ### Function 5: Texture Strength
+![TextureStrength Function](images/mohammedqamar_materialfunction_textureStrength_B.gif)
 ![TextureStrength Function](images/mohammedqamar_materialfunction_TextureStrength_A.png)
 
 **Description:**  
@@ -59,7 +60,8 @@ Emissive Pulse creates a rhythmic glowing effect for emissive materials. This fu
 ---
 
 ### Function 7: Pulse
-![Pulse Function](images/mohammedqamar_materialfunction_emissivePulse_A.png)
+![Pulse Function](images/mohammedqamar_materialfunction_pulse_B.gif)
+![Pulse Function](images/mohammedqamar_materialfunction_Pulse_A.png)
 
 **Description:**  
 The Pulse function generates a circular pulsating effect originating from a specified vector2 coordinate, utilizing the object's UVs. 
