@@ -1,4 +1,4 @@
-# Mohammed Qamar | Unreal Material Functions Showcase 🎮🎨
+# Unreal Material Functions Showcase 🎮🎨
 
 ## About This Repository
 
@@ -39,6 +39,29 @@ EmissiveFlicker adds dynamic lighting variations to your emissive materials. Thi
 
 **Description:**  
 The Tiling & Offset function allows for precise control over the repetition and positioning of textures within your material.The offset parameters enable you to shift the texture coordinates, providing an additional layer of customization. This function brings together both tiling and offset controls into a single, user-friendly interface, enhancing workflow efficiency and creative flexibility.
+
+---
+
+### Function 5: Texture Strength
+![TextureStrength Function](images/mohammedqamar_materialfunction_TextureStrength_A.png)
+
+**Description:**  
+
+
+---
+### Function 6: Emissive Pulse
+![Pulse Function](images/mohammedqamar_materialfunction_emissivePulse_A.png)
+
+**Description:**  
+Emissive Pulse creates a rhythmic glowing effect for emissive materials. This function pulses the emissive strength in a predictable manner, making it great for simulating heartbeat-like glows, rhythmic light sources, or any other patterned light emission. The pulse frequency, intensity, and falloff can be easily adjusted to fit different artistic needs.
+
+---
+### Function 7: Pulse
+![Pulse Function](images/mohammedqamar_materialfunction_emissivePulse_A.png)
+
+**Description:**  
+The Pulse function generates a circular pulsating effect originating from a specified vector2 coordinate, utilizing the object's UVs. 
+This ripple-like effect is perfect for simulating effects like a drop hitting water, a radar ping, or any scenario where a wave emanates from a central point. The function offers controls over the pulse's intensity, frequency, and falloff, ensuring adaptability to various artistic and technical needs.
 
 ---
 
